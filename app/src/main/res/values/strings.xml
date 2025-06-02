@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleAlarms</string>
+    <string name="add_alarm">Add Alarm</string>
+</resources>
